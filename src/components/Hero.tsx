@@ -55,7 +55,7 @@ const Hero = () => {
               <div className="absolute -inset-4 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-full blur-2xl opacity-30 animate-pulse"></div>
               <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-slate-700 shadow-2xl">
                 <img
-                  src="/Raj Sharma Straight face.jpg"
+                  src="/Raj Sharma Straight face.png"
                   alt="Raj Sharma"
                   className="w-full h-full object-contain scale-100"
                 />
